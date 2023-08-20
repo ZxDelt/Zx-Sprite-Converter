@@ -1,7 +1,7 @@
 {
     "name": "com.zx.spriteconverter",
     "version": "0.0.1",
-    "displayName": "sprite converter",
+    "displayName": "zx-sprite-converter",
     "description": "converts texture to sprite from folder reference",
     "unity": "2021.3",
     "author": {
