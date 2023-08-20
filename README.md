@@ -1,3 +1,5 @@
+#there are some erros at moment working on it!!
+
 # Zx-Sprite-Converter
 converts textures to sprite from a folder reference and will even search into sub folders, simple to use
 
