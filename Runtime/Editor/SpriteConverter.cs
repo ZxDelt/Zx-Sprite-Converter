@@ -56,6 +56,7 @@ public class SpriteConverter : EditorWindow
                     importer.spritePixelsPerUnit = 100;
                     importer.spritePivot = new Vector2(0.5f, 0.5f);
                     importer.spriteImportMode = SpriteImportMode.Single;
+                    importer.filterMode = FilterMode.Point;
                     importer.maxTextureSize = 2048;
                     importer.textureCompression = TextureImporterCompression.Uncompressed;
                     importer.isReadable = true;
